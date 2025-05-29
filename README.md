@@ -37,3 +37,5 @@ In this project, we use **Agglomerative Hierarchical Clustering**.
 
 ---
 
+## 🤝 Contributions
+Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.
